@@ -1,0 +1,104 @@
+@media only screen and (max-width: 700px){
+	.fitness_max{
+		height: 400px;
+	}
+	.sports_div{
+		justify-content: center;
+		width: 700px;
+	}
+	.sports_life{
+		margin-left: 80px;
+		font-size: 20px;
+	}
+	.life_div{
+		font-size: 30px;
+	}
+	nav ul{
+		width: 500px;
+	}
+	.sports_life{
+		display: none;
+	}
+	.welcome_text{
+		left: 80px;
+		top: 130px;
+	}
+	.gym_max{
+		top: 350px;
+		left: 10px;
+	}
+	.fitness_1{
+		width: 218px;
+		height: 30px;
+	}
+	.fitness_1_min{
+		margin-top: 5px;
+		font-size: 15px;
+	}
+	.latest_max_news{
+		top: 380px;
+		left: 10px;
+
+	}
+	.latest_news{
+		width: 218px;
+	}
+	.events_text2{
+		width: 600px;
+	}
+	.basketball_match{
+		width: 100px;
+		height: 200px;
+	}
+	.sports_max_div{
+		width: 600px;
+	}
+	.img_max_sport{
+		width: 140px;
+	}
+	.match_div{
+		width: 140px;
+	}
+	.february_max{
+		width: 140px;
+		height: 200px;
+	}
+	.left_right{
+		padding-top: 100px;
+		margin-top: 100px;
+	}
+	.jones_max_div{
+		width: 650px;
+		/*display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+*/	}
+	.jones_max_div1{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+	.left_gym{
+		display: none;
+	}
+	.one_day_max1{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+	.opening_max_logo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+	.opening_max{
+		margin-top: 25px;
+	}
+	.graphicriver_div_min{
+		width: 600px;
+	}
+}	
